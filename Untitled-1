@@ -1,0 +1,4 @@
+GET /api/operations - recupera todas las operaciones 
+POST /api/operations - crea una operacion
+PUT /api/operations/4 - edita la operacion 4
+DELETE /api/operations/4 - borra la operacion 4
